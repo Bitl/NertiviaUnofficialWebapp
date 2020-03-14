@@ -1,0 +1,2 @@
+rootProject.name='Nertavia Unofficial Webapp'
+include ':app'
